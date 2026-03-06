@@ -167,7 +167,7 @@ Resposta esperada:
 
 ---
 
-## Cadastrar produto
+## Cadastrar Produto
 
 Método:
 
